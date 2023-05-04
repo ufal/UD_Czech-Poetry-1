@@ -7,7 +7,7 @@ Czech Poetry from the 19th century.
 
 # Introduction
 
-...
+Random samples of Czech 19th-century poetry parsed with UDPipe 2 (trained on UD Czech-PDT 2.11) and manually corrected.
 
 
 # Acknowledgments
