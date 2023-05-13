@@ -130,7 +130,7 @@
 15	pánů	pán	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	14	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
-# sent_id = 0215-0001-0001-0000-0016-0000_7-bis
+# sent_id = 0215-0001-0001-0000-0016-0000_7
 # text = A v rybě – Bajušáku – Kamčadále, a Peršan v plameni, jenž hořel stále.
 1	A	a	CCONJ	J^-------------	_	3	cc	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
